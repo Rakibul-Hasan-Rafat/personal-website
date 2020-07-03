@@ -1,0 +1,136 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Titillium Web', sans-serif;
+}
+section{
+    height: 700px;
+    
+}
+h1{
+    font-size: 50px;
+    padding: 0;
+    margin: 0;
+}
+p{
+    font-size: 15px;
+    padding-bottom: 20px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 90%;
+}
+.top-banner{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+     
+}
+.biography{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+     
+}
+.latest-work{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+    height: 550px;
+}
+.highlight{
+    color: tomato;
+}
+.link-button{
+    text-decoration: none;
+    padding: 10px 20px;
+    color: white;
+    font-weight: 700;
+    background-image: linear-gradient(45deg,tomato,darkorange);
+    border-radius: 5px;
+}
+.cv-button{
+    text-decoration: none;
+    padding: 10px 20px;
+    color: white;
+    font-weight: 700;
+    background-image: linear-gradient(45deg,tomato,darkorange);
+    border-radius: 5px;
+}
+
+#text{
+    margin-top: 40%;
+}
+.work-image {
+    width: 28%;
+    height: 400px;    
+}
+.work-image img{
+    width: 100%;
+}
+.image-process{
+    
+    display:block;
+    float: left;
+    padding: 0;
+    margin-left: 4%;
+    }
+.heading{
+    text-align: center;
+    padding: 60px;
+}
+.footer{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+    text-align: center;
+
+}
+.footer-button{
+    text-decoration: none;
+    padding: 20px 20px;
+    color: white;
+    font-weight: 700;
+    background-image: linear-gradient(45deg,tomato,darkorange);
+    border-radius: 5px;
+    margin: 50px 0;
+    margin:0 20%;
+    width: 60%;
+    padding-bottom: 50px;
+    margin-bottom: 60px;
+}
+#footer-client{
+    margin-bottom: 50px;
+}
+#bruce{
+    margin-bottom: 0;
+}
+#ceo{
+    margin-top: 0;
+    font-weight: normal;
+    color: silver;
+    margin-bottom: 60px;
+}
+#footer-para{
+    margin:0 20%;
+    width: 60%;
+    padding-bottom: 50px;
+    margin-bottom: 60px;
+
+}
+#copy-right{
+    margin-top: 270px;
+}
+button{
+    text-decoration: none;
+    border: none;
+}
